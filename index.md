@@ -1,3 +1,7 @@
+---
+layout: default
+
+---
 
 # About Me
 
@@ -8,4 +12,7 @@ Contact Me:
 - E-mail: dylanchann@outlook.com
 - Tel: +86 155 2131 9907
 
-[View My Github Profile](https://github.com/DylanChenn).
+[View My Github Profile](./another-page.html).
+
+
+
